@@ -5,5 +5,5 @@ It is a basic app. I used "english_words" external package and I created a lazil
 
 ## Here is a snippet of my application
 
-![Image of Yaktocat](https://docs.flutter.dev/assets/images/docs/get-started/startup-namer-part-1.gif)
+![Image](https://docs.flutter.dev/assets/images/docs/get-started/startup-namer.gif)
 
