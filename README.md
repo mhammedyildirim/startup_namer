@@ -130,8 +130,6 @@ Project Link: [https://github.com/mhammedyildirim/startup_namer](https://github.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
