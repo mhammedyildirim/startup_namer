@@ -123,7 +123,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Muhammed Sabri Yıldırım - [@hidingt0night](https://twitter.com/hidingt0night) - mhammedyildirim@protonmail.com
+Muhammed Sabri Yıldırım - mhammedyildirim@protonmail.com
 
 Project Link: [https://github.com/mhammedyildirim/startup_namer](https://github.com/mhammedyildirim/startup_namer)
 
